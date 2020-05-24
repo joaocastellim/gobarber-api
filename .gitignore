@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+temp/
+.vscode/
+.idea/
+.env
+ormconfig.json
+
+tmp/*
+!tmp/.gitkeep
